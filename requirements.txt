@@ -1,0 +1,4 @@
+pandas
+numpy
+tabulate
+openpyxl

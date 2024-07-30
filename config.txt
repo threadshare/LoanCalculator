@@ -1,0 +1,41 @@
+# 房屋总价（万元）
+house_price=400
+
+# 首付比例（%）
+down_payment_ratio=20
+
+# 公积金贷款金额（万元）
+fund_loan_amount=120
+
+# 公积金利率（%）
+fund_loan_rate=2.85
+
+# 契税比例（%）
+deed_tax_rate=1
+
+# 贷款年限（年）
+loan_years=30
+
+# 中介费比例（%）
+agent_fee_ratio=2.2
+
+# 装修-硬装含设计（元）
+hard_deco=150000
+
+# 装修-全屋定制（元）
+whole_house_custom=30000
+
+# 装修-门窗暖（元）
+doors_and_windows=30000
+
+# 装修-软装（元）
+soft_furnishings=20000
+
+# 装修-家电（元）
+appliance=40000
+
+# 装修-杂项（元）
+miscellaneous=10000
+
+# 商业贷款利率（%）
+commercial_loan_rate=3.4
